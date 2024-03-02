@@ -1,4 +1,4 @@
-# Herramientas de Programación -Examen Final ciclo 2023
+# Herramientas de Programación - Examen Final ciclo 2023
 
 ## Enunciado:
 - Realizar el cálculo de importe de consumo de luz mostrar los detalles de los importes.
