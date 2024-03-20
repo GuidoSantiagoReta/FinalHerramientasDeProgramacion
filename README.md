@@ -8,7 +8,7 @@
 #### Pedir por prompt los siguientes datos:
 - Nombre de la persona.
 - Numero de cliente (hasta 7 números).
-- Zona: (1-CABA,2-Conurbano,3-interior de la provincia.
+- Zona: (1-CABA,2-Conurbano,3-interior de la provincia).
 - KW (Kilowatts) consumidos.
 
 #### Datos para el cálculo de importes:
